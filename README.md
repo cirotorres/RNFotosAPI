@@ -148,7 +148,7 @@ Certifique-se de que sua API .NET está configurada corretamente:
 ## 📞 Contato
 
 - **Email:** ciro_3@hotmail.com
-- **LinkedIn:** [Ciro Torres](www.linkedin.com/in/ciroptorres)
+- **LinkedIn:** [Ciro Torres](https://www.linkedin.com/in/ciroptorres)
 
 ---
 
