@@ -116,7 +116,7 @@ Para mais informações leia o README da API.
 | **Lista de Imagens**   | ![List](./src/assets/IMG_9661.png)                  |
 | **Detalhes**           | ![Details](./src/assets/IMG_9662.png)               |
 | **Fotos do Usuário**   | ![UsersPic](./src/assets/IMG_9664.png)              |
-| **Favoritos**          | ![Favorites](./src/assets/IMG_9663.png)             |
+| **Favoritos**          | ![Favorites](./src/assets/IMG_9663.gif)             |
 
 Substitua os placeholders acima por links diretos para seus GIFs ou imagens do projeto.
 
