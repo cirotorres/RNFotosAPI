@@ -35,7 +35,7 @@ Este é um aplicativo **React Native** para gerenciamento de imagens. O projeto 
 
 ### Consumo de API
 Este aplicativo consome os dados de uma API desenvolvida em .NET, disponível no seguinte repositório:
-- **API:** ![FotosAPI](https://github.com/cirotorres/FotosAPI/)
+- **API:** [FotosAPI](https://github.com/cirotorres/FotosAPI/)
 
 Certifique-se de clonar e configurar a API para que a aplicação possa funcionar corretamente. A API é responsável por:
 - Gerenciar os uploads de imagens.
